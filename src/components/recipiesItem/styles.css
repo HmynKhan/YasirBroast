@@ -1,0 +1,37 @@
+.recipies-item{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(250,100,1,0);
+    background-color: #fff;
+}
+
+.recipies-item:hover{
+    border: 1px solid red;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(241, 108, 19, 0);
+    background-color: wheat;
+ 
+}
+.recipies-item p {
+    color: #fa6400;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 12px 0px 12px 0px;
+}
+
+.recipiesBtn{
+    background-color: #fa6400;
+    border: 1px solid transparent;
+    padding: 14px;
+    font-weight: 400;
+}
+
+.recipiesBtn:hover{
+    background-color: black;
+    color: #fa6400;
+    border: 1px solid transparent;
+    font-weight: 700;
+    cursor: pointer;
+}
